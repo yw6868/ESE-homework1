@@ -11,6 +11,8 @@ Print_values<-function(a ,b, c){
     }
   } else {if(b>c){
     print("False")
+    # some thing wrong here
+    # if you put in a vector of (3,4,1), the output result must be (4,3,1), instead of "FALSE"    
   } else {
     print(c(c,b,a) )
   }
