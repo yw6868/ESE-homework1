@@ -14,3 +14,4 @@ Least_moves <- function(n) {
 }
 Least_moves(2)
 Least_moves(5)
+# good work
