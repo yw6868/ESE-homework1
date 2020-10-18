@@ -39,7 +39,7 @@ cat("The Number that Yields the maximum of Total Solutions are:", max_index,
 cat("The Number that Yields the minimum of Total Solutions is:", min_index,
     ". In this case, the total number of solutions is",  min(Total_solutions))
 
-
+# you did an excellent work, very nice!
 
 
 
