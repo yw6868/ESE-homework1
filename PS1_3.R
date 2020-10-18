@@ -16,4 +16,6 @@ Pascal_triangle<-function(k){
       for(i in 1:k)
         cat(s,format(J[i,],justify="centre"),"\n")
 }
+# it is a really good work but, we only want you to output the last line of Pascal Triangle, NOT the entire data
+
 Pascal_triangle(10)
